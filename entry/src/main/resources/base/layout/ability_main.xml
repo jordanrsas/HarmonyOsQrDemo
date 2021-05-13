@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical"
+    ohos:padding="$float:margin">
+
+    <Button
+        ohos:id="$+id:getCodeButton"
+        ohos:height="match_content"
+        ohos:width="match_parent"
+        ohos:background_element="$graphic:background_button"
+        ohos:padding="$float:marginS"
+        ohos:text="$string:getGenCodeButtonLabel"
+        ohos:text_size="$float:buttonTextSize"
+        ohos:top_margin="$float:margin"/>
+
+    <Image
+        ohos:id="$+id:qrCodeImage"
+        ohos:height="match_content"
+        ohos:width="match_parent"
+        ohos:top_margin="$float:margin"/>
+
+</DirectionalLayout>

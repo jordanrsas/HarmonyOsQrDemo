@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "buttonColor",
+      "value": "#65B8D0"
+    },
+    {
+      "name": "colorListDivider",
+      "value": "#33000000"
+    },
+    {
+      "name": "colorBlack",
+      "value": "#000000"
+    }
+  ]
+}
